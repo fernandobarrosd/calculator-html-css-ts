@@ -1,0 +1,14 @@
+{
+  "name": "calculadora-tailwindcss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "server": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.2.1"
+  }
+}
